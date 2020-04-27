@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530739823164",
+    "firebase_url": "https://kfu-pass.firebaseio.com",
+    "project_id": "kfu-pass",
+    "storage_bucket": "kfu-pass.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530739823164:android:5183a73437fba81c3db939",
+        "android_client_info": {
+          "package_name": "com.itis.kfupass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530739823164-pf2gnjimchg976pt2mcukiob5nhfpjra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itis.kfupass",
+            "certificate_hash": "8a561185d4ebed7c13a22dd5500c19f5481a7714"
+          }
+        },
+        {
+          "client_id": "530739823164-uklvjkobaca2o707aocrfvvbf2q33hla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7qJBGPaQJjrNGtDSlFBJZW4RJpftvhTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530739823164-uklvjkobaca2o707aocrfvvbf2q33hla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
